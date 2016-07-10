@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleMod", "ConsoleMod\ConsoleMod.csproj", "{4BE1F3CC-7EDA-4F4E-ABA8-EADAF1601500}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ToastyMod", "ToastyMod\ToastyMod.csproj", "{39F7613C-76F0-45DE-80E5-B458E1E8828E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{39F7613C-76F0-45DE-80E5-B458E1E8828E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{39F7613C-76F0-45DE-80E5-B458E1E8828E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{39F7613C-76F0-45DE-80E5-B458E1E8828E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{39F7613C-76F0-45DE-80E5-B458E1E8828E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4BE1F3CC-7EDA-4F4E-ABA8-EADAF1601500}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4BE1F3CC-7EDA-4F4E-ABA8-EADAF1601500}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4BE1F3CC-7EDA-4F4E-ABA8-EADAF1601500}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4BE1F3CC-7EDA-4F4E-ABA8-EADAF1601500}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
