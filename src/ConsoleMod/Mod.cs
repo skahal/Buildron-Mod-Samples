@@ -5,14 +5,6 @@ namespace ConsoleMod
 {
     public class Mod : IMod
     {
-        public string Name
-        {
-            get
-            {
-				return "Console";
-            }
-        }
-
         public void Initialize(IModContext context)
         {
 			var go = new GameObject("ConsoleController");
