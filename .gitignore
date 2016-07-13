@@ -32,3 +32,10 @@ src/ConsoleMod/bin/Debug
 src/ConsoleMod/obj/Debug
 src/ToastyMod/bin/Debug
 src/ToastyMod/obj/Debug
+src/IftttMod/bin/Debug
+src/IftttMod/obj/Debug
+src/RemoteCommandMod/bin/Debug
+src/RemoteCommandMod/obj/Debug
+src/WebHookMod/bin/Debug
+src/WebHookMod/obj/Debug
+StyleCop.Cache
