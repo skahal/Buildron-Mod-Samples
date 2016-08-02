@@ -39,3 +39,15 @@ src/RemoteCommandMod/obj/Debug
 src/WebHookMod/bin/Debug
 src/WebHookMod/obj/Debug
 StyleCop.Cache
+Buildron/build/Mods
+src/Code/ConsoleMod/bin/Debug
+src/Code/ConsoleMod/obj/Debug
+src/Code/IftttMod/bin/Debug
+src/Code/IftttMod/obj/Debug
+src/Code/RemoteCommandMod/obj/Debug
+src/Unity/ToastyMod/Library
+src/Code/WebHookMod/obj/Debug
+src/Code/RemoteCommandMod/bin/Debug
+src/Code/ToastyMod/obj/Debug
+src/Code/WebHookMod/bin/Debug
+src/Code/ToastyMod/bin/Debug
