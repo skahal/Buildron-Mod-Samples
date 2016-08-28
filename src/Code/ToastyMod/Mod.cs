@@ -4,9 +4,11 @@ using UnityEngine;
 
 namespace ToastyMod
 {
+    /// <summary>
+    /// A mod to mimics the Mortal Kombat's Toasty! easter egg.
+    /// </summary>
     public class Mod : IMod 
 	{
-		#region IMod implementation
 		public void Initialize (IModContext context)
 		{
 			context.Preferences.Register (
@@ -38,7 +40,6 @@ namespace ToastyMod
 
 				holder.SetActive(active);
 			};
-		}
-		#endregion
+		}		
 	}
 }

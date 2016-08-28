@@ -12,6 +12,6 @@
           
           <Copy
               SourceFiles="@(FilesToCopy)"
-              DestinationFolder="$(MSBuildProjectDirectory)\..\..\..\Buildron\build\Mods\$(MSBuildProjectName)"/>
+              DestinationFolder="$(MSBuildProjectDirectory)\..\..\..\..\Buildron\build\Mods\$(MSBuildProjectName)"/>
     </Target>
 </Project>
